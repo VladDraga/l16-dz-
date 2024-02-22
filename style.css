@@ -5,11 +5,11 @@
 
 }
 .box {
-    background-image: url("/img/pole-zelen-trava-dom-derevya.jpg"), 
-    url("/img/green-png-44873.png") ,
+    background-image: url("./img/pole-zelen-trava-dom-derevya.jpg"), 
+    url("./img/green-png-44873.png") ,
     url("https://www.freeiconspng.com/uploads/lamp-png-0.png") ,
-    url("/img/3F3F.webp"),
-    url("/img/58eb07b830eab15b56162788.png") ;
+    url("./img/3F3F.webp"),
+    url("./img/58eb07b830eab15b56162788.png") ;
     height: 100vh;
     background-repeat: no-repeat , repeat-x , repeat-x , repeat-y , repeat-y;
     background-position: center , bottom , top , left , right;
